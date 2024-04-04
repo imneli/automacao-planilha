@@ -1,0 +1,5 @@
+openpyxl==3.0.10
+selenium==4.19.0
+
+# install the requirements
+# py -m pip install -r requirements.txt
