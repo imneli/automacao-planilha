@@ -26,4 +26,3 @@ for titulo, preco in zip(titulos, precos):
 
 workbook.save('produtos.xlsx')
 
-# como entregar para o cliente
